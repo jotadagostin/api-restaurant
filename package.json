@@ -19,7 +19,7 @@
   "homepage": "https://github.com/jotadagostin/api-restaurant#readme",
   "description": "API to organize the tables order of a restaurant",
   "dependencies": {
-    "express": "^4.19.2",
+    "express": "^4.21.2",
     "knex": "^3.1.0",
     "sqlite3": "^5.1.7",
     "zod": "^3.23.8"
