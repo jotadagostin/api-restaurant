@@ -5,6 +5,6 @@ import { tablesRoutes } from "./tables-routes";
 
 const routes = Router();
 routes.use("/products", productsRoutes);
-routes.use("/tablesnp");
+routes.use("/tables", tablesRoutes);
 
 export { routes };
